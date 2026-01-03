@@ -39,6 +39,7 @@ BY EE2A-1130533
 ---
 ## 執行方式
 ### 1.exe整合包
+  GUI_APP.EXE檔案連結:https://pse.is/8jrgtj
 - 已經把訓練資料全部整合進exe裡
   隨開即用  
   剛開藥等一點時間
